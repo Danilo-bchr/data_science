@@ -14,3 +14,7 @@ My credentials include a degree in Military Science, a degree in Administration 
 In addition, I have knowledge of Copywriting and Digital Marketing, as well as Learning How To Learn.
 
 **Background in:** Teaching
+
+## My Projects
+
+* **Analysis of Airbnb Data — New Brunswick** - https://bit.ly/Airbnd_New_Brunswick 
